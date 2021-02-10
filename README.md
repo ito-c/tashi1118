@@ -10,7 +10,7 @@
 ## My GitHub works
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tashi1118&count_private=true&show_icons=true&theme=buefy)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tashi1118&layout=compact&theme=buefy&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tashi1118&layout=compact&theme=buefy)
 
 <!--
 **tashi1118/tashi1118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
