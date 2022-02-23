@@ -1,6 +1,6 @@
 ## About me
 
-- Name: Tadashi Yoshida
+- Name: Tadashi Yoshida (itoka)
 
 ![aws-certified-solutions-architect-associate (1)](https://user-images.githubusercontent.com/56192039/148013068-f4488440-f18a-4859-b964-1f0a434bc8f4.png)
 
