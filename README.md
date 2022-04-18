@@ -1,9 +1,23 @@
 ## About me
 
-- Name: Tadashi Yoshida (itoka)
+### Name
+
+Tadashi Yoshida (itoka)
+
+### Work Experience
+
+- [APLUS Co., Ltd.](https://www.aplus.co.jp/index.html) (2015.04 - 2022.02)
+  - Maketing Department
+  - Product Planning Department
+  - Digital Promotion Department
+- [Shinsei Bank, Limited](https://www.shinseibank.com/) (2019.07 - 2020.01 temporary assignment)
+  - Group-wide Business Planning Department
+- [Imejin Inc.](https://imejin.co.jp/)(2020.06 -)
+  - System Development Department
+
+### Certification
 
 ![aws-certified-solutions-architect-associate (1)](https://user-images.githubusercontent.com/56192039/148013068-f4488440-f18a-4859-b964-1f0a434bc8f4.png)
-
 
 ## My Github Profile Trophy
 
