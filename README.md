@@ -6,7 +6,7 @@ Tadashi Yoshida (itoka)
 
 ### Work Experience
 
-- [APLUS Co., Ltd.](https://www.aplus.co.jp/index.html) (2015.04 - 2022.02)
+- [APLUS Co., Ltd.](https://www.aplus.co.jp/index.html) (2015.04 - 2020.02)
   - Maketing Department
   - Product Planning Department
   - Digital Promotion Department
